@@ -1,1 +1,1 @@
-lab-7, YOLO.
+lab-7
